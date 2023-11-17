@@ -4,6 +4,7 @@
 <p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/bd919905f9b5ea4989791281d33b4ee3e8bcc6357ad1348e4715dbb6301f8128/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c737072696e672c7068702c6a732c68746d6c2c6373732c7673636f64652c696465612c76697375616c73747564696f2c706f7374677265732c6d7973716c2c7265676578" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=java,spring,js,html,css,vscode,idea,visualstudio,mysql,regex" style="max-width: 100%;"></a></p>
 <!-- <th/> -->
 ![GitHub Stats]https://github-readme-stats.vercel.app/api?username=Ivzilol&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivzilol&theme=radical)
 
 
 <!--
